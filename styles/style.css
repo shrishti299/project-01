@@ -53,11 +53,10 @@ main{
     gap: 40px;
     overflow: scroll;
     margin-bottom: 50px;
-    scr
+    
 }
-
 #top-mid-div img{
-   width: 50px;
+    width: 50px ;
 }
 #mid-mid-div{
     width: 450px;
